@@ -1,3 +1,3 @@
 # Computer-Visiov
 
-Computer Vision Nanodegree (uncomplete)
+Computer Vision Nanodegree ()
